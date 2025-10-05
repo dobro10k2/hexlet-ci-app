@@ -1,4 +1,4 @@
-[![CI](https://github.com/dobro10k2/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)](https://github.com/dobro10k2/hexlet-ci-app/actions/workflows/ci.yml)
+[![Node CI](https://github.com/dobro10k2/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/dobro10k2/hexlet-ci-app/actions/workflows/main.yml)
 __________________________________________________________________________________________________
 # Example app for CI Hexlet course
 
